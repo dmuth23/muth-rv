@@ -1,0 +1,15 @@
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+title: The Muth Family RV Docket
+description: Everything we researched about buying a used gas Class A motorhome
+search_enabled: true
+heading_anchors: true
+color_scheme: light
+nav_sort: case_insensitive
+aux_links:
+  "GitHub repo":
+    - https://github.com/dmuth23/muth-rv
+footer_content: "Research compiled July 2026. Verify prices and specs before acting — the RV market moves."
+exclude:
+  - "*.sh"
