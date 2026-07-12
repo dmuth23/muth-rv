@@ -1,45 +1,48 @@
 # muth-rv — session state
 
-Last updated: 2026-07-12 ~14:00 ET (revamp session, wrapped at Doug's request near usage cap)
+Last updated: 2026-07-12 evening (the Class C pivot session)
 
 ## What this project is
 Family motorhome-purchase research docket. Deliverable = `docs/` published at
-https://dmuth23.github.io/muth-rv/ for Doug + Sara to review.
+https://dmuth23.github.io/muth-rv/ for Doug + Sara.
 
 ## Frozen decisions & standing approvals (do NOT re-ask)
-- **Purchase profile (Doug, 2026-07-12 — supersedes 07-11):** USED, financing
-  $100–150k (flexible for a deal). Primary: gas Class A 30–35'. Also on the table:
-  Class C 30'+ w/ toad, and diesel (informed-buyer coverage; shop-serviced).
-  Window late 2026–2028. Kids born March 2022 (one bigger-, one smaller-than-avg;
-  names NEVER in public docs). Brick, NJ; likely driveway storage. Tow-car
-  candidates: 2017 RAV4 Limited AWD, 2022 Tucson (both ~trailer-only per doc 19).
-  ~6 conventional bikes, NO e-bikes. Sara likely won't drive a Class A.
-  Rent-before-buy agreed. No model shortlisting — full landscape.
-- **Standing approvals:** repo PUBLIC, free-push, Pages site approved; the
-  $100–150k band is approved for publication.
-- **Doc standards (Doug):** inline citations + per-doc Sources section on every
-  doc; law-vs-guidance explicitly separated. Applies to all future docs.
-- **Model policy:** Opus writers + Fable adversarial/orchestration when headroom
-  allows; drop agents to Sonnet when usage-constrained (Doug called both today).
+- **Profile (Doug, 2026-07-12 evening — the Class C pivot):** USED gas **Class C**,
+  **$60–90k financed**. **Class A eliminated** (parks mission; length limits).
+  Mission: national/state park camping incl. cross-country (Sequoia, Canyonlands).
+  Kids born Mar 2022, **homeschooled** (no calendar tether; names never public).
+  Abroad travel protected (work HQ Munich — never name employer publicly).
+  ~6 bikes, no e-bikes. WFH aboard. Sara more comfortable with a C. Rent-first
+  agreed (Cruise America Cliffwood ~25 min away; Cheesequake SP night in protocol).
+  Brick NJ driveway storage likely. Tow cars RAV4 AWD '17 / Tucson '22: no
+  flat-tow; E-450 hitches revive the TRAILER option (per-unit rating check).
+- **Standing approvals:** repo PUBLIC, free-push; budget band publishable.
+- **Doc standards:** inline citations + Sources section everywhere; law vs
+  guidance separated; volatile facts dated. Archive convention: superseded docs
+  → `docs/archive/` (on-site, bannered, unmaintained — never delete research).
+- **Model policy (current):** Sonnet writers/researchers, Opus adversarial
+  verify, Fable orchestration only. Usage-conscious, no accuracy corners.
 
-## State as of session end
-- Revamp COMPLETE and pushed: commit `dd58bb1` on main — 24 docs (14 revised/
-  citation-retrofitted + 8 new: 17 diesel, 18 Class C, 19 towing/toad, 20 Brick NJ
-  storage, 21 school/cadence, 22 one-driver, 23 insurance/toad, 24 out-of-state
-  buying), rebuilt index/reading-list/open-questions. Two-pass fact-check applied.
-  Pages was rebuilding at wrap; verify site rendering next session.
-- **IN-FLIGHT, STOPPED, RESUMABLE:** phase-2 audit workflow (4 Fable auditors:
-  legal/money/vehicle/consistency + Opus Sara-lens reader → Opus fixers per file).
-  Run `wf_b458ba82-be2`, stopped ~96% usage before findings landed. Resume after
-  reset with: Workflow({scriptPath: "~/.claude/projects/-home-dmadmin-projects-muth-rv/2761eb8c-d3d8-4d92-a21e-58a005e4df05/workflows/scripts/muth-rv-final-audit-wf_b458ba82-be2.js",
-  resumeFromRunId: "wf_b458ba82-be2"}) — completed audit agents return cached.
-- Phase-1 revamp workflow `wf_3fa2cbb9-701` fully complete (54 agents, ~3.2M tok).
-  Full result JSON: /tmp/claude-1000/-home-dmadmin-projects-muth-rv/2761eb8c-.../tasks/wbexbs4k7.output
-  Known loose end: docs 08 + 10 chains hit a StructuredOutput cap late (files on
-  disk are fine/fixed; the stopped audit was their second check — resume covers it).
+## State at session end (all pushed, Pages verified live)
+- HEAD `0021808` on main. 26 live docs + 4-doc Archive. Key structure:
+  25/26 = parks length-limit charts (137 rows, official sources; fit analysis),
+  27 = Honest Math (~44 nights/yr own-vs-rent break-even; walk-away triggers),
+  28 = Bigger Picture (trips-while-waiting, abroad guardrails, gratitude tone),
+  29 = Homeschool superpower, 10 = full Class C TCO, 18 = flagship model doc,
+  19 = towing re-verdict, 01 = pivot retrospective. index.md rewritten.
+- Workflow `wf_d069bcbd-3be` (36 agents, ~3.0M tok): 5 parks researchers,
+  15 writers, 2 assemblers, 6 Opus verifiers, fixes applied. I hand-fixed 4
+  misnamed writer outputs (25-the-honest-math→27, 08-the-bigger-picture→28,
+  09-homeschooling…→29, 26-class-c-tco→10) + their cross-links; link/nav sweep
+  clean; no kids'-name leaks (grep-verified).
+- **Known gap:** the Opus verify of 10-ownership-costs.md (TCO) died on an API
+  stall — its money math is UNVERIFIED (doc 27's verify partially overlaps).
+  Cheap next-session task: one Opus verifier over doc 10's claims + fix pass.
+- Earlier same day: Class A revamp shipped (dd58bb1) then superseded by this
+  pivot; old phase-2 audit run wf_b458ba82-be2 deliberately abandoned (moot).
 
 ## Next likely work
-1. Resume the phase-2 audit (after 3:00 PM ET reset), apply fixes, commit+push.
-2. Verify Pages build + spot-check new pages render.
-3. Doug + Sara read the new entry path: docs 05 → 19 → 22 → 13; then 16
-   (Decisions & Open Questions) for the next round of decisions.
+1. One-shot Opus verify of doc 10 (TCO) — the flagged gap.
+2. Doug + Sara read: 25 → 26 → 27 → 18; answer 16's "now open" list (length
+   sweet spot first; honest nights/yr number on paper BEFORE the rental).
+3. Book the Cruise America Cliffwood rental + Cheesequake night (doc 13).
