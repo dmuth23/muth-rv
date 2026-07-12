@@ -2,7 +2,10 @@
 layout: default
 title: "The Used Gas Class A Landscape (30-37 ft)"
 nav_order: 3
+parent: Archive
 ---
+
+> **Archived (July 2026).** This doc belongs to the earlier Class A phase of the search — the family pivoted from Class A to Class C. It is kept intact for reference: facts were current when written but are no longer maintained. The live docket starts at [the home page](../index.html).
 
 # The Used Gas Class A Landscape (30-37 ft)
 
@@ -15,8 +18,8 @@ That matters because gas Class A quality varies enormously not just brand-to-bra
 A few scope notes before the coaches:
 
 - **This is the gas landscape.** For diesel pushers — a category now back on the table for the family — see the [diesel primer](17-diesel-primer.html). (The Winnebago **Forza** the family looked at earlier is a diesel pusher on a Freightliner chassis; it lives in that document, not here.)
-- **Class C is also on the table now**, with a tow-car in the mix. That landscape has its own document: [the Class C landscape](18-class-c-landscape.html).
-- **The binding family constraint runs underneath every entry here: belted, forward-facing, chassis-anchored seating for the kids' car seats.** This is the single most important thing to verify on any coach and it is barely ever in a brochure. The full treatment — federal law, NJ law, what safety experts recommend, and why "family floorplan" in a brochure is not the same as a crash-safe seat — is in [RVing with the kids](05-family-and-kids.html). Each coach below carries only what is *citably known* about its belted positions; where nothing is published, it says so, and points you back to the physical VIN-level check.
+- **Class C is also on the table now**, with a tow-car in the mix. That landscape has its own document: [the Class C landscape](../18-class-c-landscape.html).
+- **The binding family constraint runs underneath every entry here: belted, forward-facing, chassis-anchored seating for the kids' car seats.** This is the single most important thing to verify on any coach and it is barely ever in a brochure. The full treatment — federal law, NJ law, what safety experts recommend, and why "family floorplan" in a brochure is not the same as a crash-safe seat — is in [RVing with the kids](../05-family-and-kids.html). Each coach below carries only what is *citably known* about its belted positions; where nothing is published, it says so, and points you back to the physical VIN-level check.
 
 Budget frame: the family's financing band is **$100k-150k, flexible for a genuine deal** (as of July 2026). Where used prices are quoted below, they're pulled from live national listing marketplaces on that date; treat them as "what the market looks like right now," not a fixed quote.
 
@@ -53,7 +56,7 @@ One nuance on the "tiers": **Thor Industries owns much of the mid and value tier
 
 **Reputation / known areas:** Newmar has the strongest fit-and-finish reputation of the gas builders here — quieter interiors, better cabinetry, and a customer-service culture owners consistently praise ([Beaver Coach Sales](https://www.beavercoachsales.com/newmar-vs-tiffin-vs-entegra/); [iRV2, rating Tiffin and Newmar quality](https://www.irv2.com/forums/f258/how-would-you-rate-the-quality-of-tiffin-and-newmar-560461.html)). Newmar was acquired by Winnebago, but the Nappanee, Indiana plant reportedly still builds to Newmar engineering and finish standards. Caveat: recent (2025) owner threads report some erosion — slide-out issues, weak batteries, molding/doors loosening on early trips — so "premium badge" still doesn't excuse you from inspecting the actual unit ([iRV2, 2025 Bay Star build quality](https://www.irv2.com/threads/2025-bay-star-build-quality.2085835/)).
 
-**Belted seating:** No Newmar-published per-position belt-anchor data was found. Bay Star bunk floorplans exist, but bunk sleeping positions are *not* the same as belted-while-driving positions — verify facing direction, 3-point vs lap-only belts, and frame vs cabinet anchoring on the specific coach ([see the family doc](05-family-and-kids.html)).
+**Belted seating:** No Newmar-published per-position belt-anchor data was found. Bay Star bunk floorplans exist, but bunk sleeping positions are *not* the same as belted-while-driving positions — verify facing direction, 3-point vs lap-only belts, and frame vs cabinet anchoring on the specific coach ([see the family doc](../05-family-and-kids.html)).
 
 **Price, as of July 2026:** Newmar commands a real used premium over the mainstream tier for comparable age/length — expect Bay Star / Bay Star Sport used pricing to run toward the top of, and sometimes above, the $100-150k band depending on year and length.
 
@@ -63,7 +66,7 @@ One nuance on the "tiers": **Thor Industries owns much of the mid and value tier
 
 **Reputation / known areas:** Strong. Tiffin's reputation rests on long service life and a customer-support culture that survived the Thor acquisition ([Beaver Coach Sales](https://www.beavercoachsales.com/newmar-vs-tiffin-vs-entegra/)). Some owners note Tiffin runs a "steady stream of small repairs" but backs them well; others rate it on par with Newmar ([iRV2, Tiffin/Newmar quality thread](https://www.irv2.com/forums/f258/how-would-you-rate-the-quality-of-tiffin-and-newmar-560461.html)). Later Open Road units (2021+) moved to the 7.3L V8 with better fuel economy.
 
-**Belted seating:** No Tiffin-published belt-anchor data found. The 32SA's drop-down front bunk carries a factory ~250 lb rating — a *sleeping* rating, again not a while-driving belt position. Check the dinette facing and belt type on the unit ([family doc](05-family-and-kids.html)).
+**Belted seating:** No Tiffin-published belt-anchor data found. The 32SA's drop-down front bunk carries a factory ~250 lb rating — a *sleeping* rating, again not a while-driving belt position. Check the dinette facing and belt type on the unit ([family doc](../05-family-and-kids.html)).
 
 **Price, as of July 2026:** Used Open Road Allegros span a wide range on the national market — examples seen include a used 2020 34PA around **$107k** and a used 2021 32SA around **$116k**, with the broader used Allegro pool ranging from roughly **$20k (old/small)** to **$248k (newer/large)** ([RVUniverse, Tiffin Allegro Open Road listings](https://www.rvuniverse.com/listings/for-sale/tiffin/allegro-open-road/class-a-motorhomes/150001)). The family-sized 2020-2022 units land near the middle of the $100-150k band.
 
@@ -77,7 +80,7 @@ One nuance on the "tiers": **Thor Industries owns much of the mid and value tier
 
 **Reputation / known areas:** Solidly mid-pack. Aggregated owner reviews score the Vista and Adventurer around 4.3/5, Sunstar a bit lower from a smaller sample ([RV Insider, Winnebago Class A gas reviews](https://www.rvinsider.com/Winnebago-Class-A-Gas-RV-Reviews)). Recurring complaint themes: water pumps, step motors, generator carburetors, windshields, and — more seriously on some units — hydraulic leveling-jack and slide-out failures. Owner sentiment holds that build quality dipped over roughly 2005-2020 before improving, so treat any specific year as its own inspection, not a blanket "Winnebago" quality signal.
 
-**Belted seating — the one concrete published signal in this whole document:** Winnebago's own "Buckling Up Kids in an RV" page names specific models with **factory LATCH systems and child-seat tether anchors in the dinette or cab seats — including the Adventurer** ([Winnebago, Buckling Up Kids in an RV](https://www.winnebago.com/lifestyle/winnebagolife/life/buckling-up-kids-in-an-rv-1)). Read carefully: that's about *forward-facing* dinettes with factory 3-point belts and tethers, not the side-facing dinettes that still appear on plenty of Adventurer/Vista/Sunstar configurations. It's a genuinely useful shopping signal, but it is a prompt to *verify on the specific VIN*, not a guarantee — the full analysis is in the [family doc](05-family-and-kids.html).
+**Belted seating — the one concrete published signal in this whole document:** Winnebago's own "Buckling Up Kids in an RV" page names specific models with **factory LATCH systems and child-seat tether anchors in the dinette or cab seats — including the Adventurer** ([Winnebago, Buckling Up Kids in an RV](https://www.winnebago.com/lifestyle/winnebagolife/life/buckling-up-kids-in-an-rv-1)). Read carefully: that's about *forward-facing* dinettes with factory 3-point belts and tethers, not the side-facing dinettes that still appear on plenty of Adventurer/Vista/Sunstar configurations. It's a genuinely useful shopping signal, but it is a prompt to *verify on the specific VIN*, not a guarantee — the full analysis is in the [family doc](../05-family-and-kids.html).
 
 **Price, as of July 2026:** The used Adventurer market runs broadly (roughly $15k for very old units up to ~$210k new-ish), with family-sized recent examples like a **2022 Adventurer 35F near $144k** ([RV Trader, Winnebago Class A listings](https://www.rvtrader.com/Winnebago-Class-A/rvs-for-sale?type=Class+A%7C198067&make=Winnebago%7C2307464)). Used Sunstars have averaged near **$117k** with a range roughly $49k-155k. The 35F Adventurer sits at the upper end of the budget band; smaller Vista/Sunstar plans fall comfortably inside it.
 
@@ -93,7 +96,7 @@ Fleetwood's actual diesel pushers (Discovery, Discovery LXE, Frontier, Pace Arro
 
 **Reputation / known areas:** Mid-pack and well-supported — not the finish of Newmar/Tiffin, but reliable and easy to service through REV Group's dealer network. Broadly grouped just behind the premium tier in reputation surveys ([Beaver Coach Sales](https://www.beavercoachsales.com/newmar-vs-tiffin-vs-entegra/)).
 
-**Belted seating:** No Fleetwood-published belt-anchor data found. Bounder and Southwind offer bunk floorplans; verify while-driving belt positions on the actual coach ([family doc](05-family-and-kids.html)).
+**Belted seating:** No Fleetwood-published belt-anchor data found. Bounder and Southwind offer bunk floorplans; verify while-driving belt positions on the actual coach ([family doc](../05-family-and-kids.html)).
 
 **Price, as of July 2026:** Used Bounder 35K listings range roughly **$45k-200k** depending on year, with the 2020-2022 family cohort well inside the budget band ([RVs on Autotrader, Fleetwood Bounder listings](https://rvs.autotrader.com/rvs-for-sale/fleetwood-bounder-for-sale)). JD Power maintains per-year used values for the Bounder ([JD Power, 2022 Bounder](https://www.jdpower.com/rvs/2022/bounder)) — worth pulling on any specific VIN.
 
@@ -103,7 +106,7 @@ Fleetwood's actual diesel pushers (Discovery, Discovery LXE, Frontier, Pace Arro
 
 **Reputation / known areas:** Mid-pack, tracks Fleetwood — well-supported, unremarkable in either direction ([RV Insider, Holiday Rambler Class A gas reviews](https://www.rvinsider.com/Holiday-Rambler-Class-A-Gas-RV-Reviews?type=Class+A+-+Gas&manu=Holiday+Rambler)). Not a brand to hunt specifically, not a red flag if the unit and price are right.
 
-**Belted seating:** No published belt-anchor data found; verify per-VIN ([family doc](05-family-and-kids.html)).
+**Belted seating:** No published belt-anchor data found; verify per-VIN ([family doc](../05-family-and-kids.html)).
 
 **Price, as of July 2026:** Lower-volume on the used market than Fleetwood; expect pricing to shadow the equivalent Fleetwood, generally within the budget band for 2019-2023 units.
 
@@ -113,7 +116,7 @@ Fleetwood's actual diesel pushers (Discovery, Discovery LXE, Frontier, Pace Arro
 
 **Reputation / known areas:** Value-forward feature set (slam-latch storage, MCD shades) with an industry-leading 2-year bumper-to-bumper warranty on new units — a signal of factory confidence, less relevant to a used buyer but a data point. F-53 chassis reliability under Jayco coaches gets consistently positive owner mentions.
 
-**Belted seating:** The 29F/36A "bunk" ratings are sleeping capacities, not while-driving belt positions. No published belt-anchor data found; verify per-VIN ([family doc](05-family-and-kids.html)).
+**Belted seating:** The 29F/36A "bunk" ratings are sleeping capacities, not while-driving belt positions. No published belt-anchor data found; verify per-VIN ([family doc](../05-family-and-kids.html)).
 
 **Price, as of July 2026:** The 2020-2021 pandemic-boom cohort has moved plenty of lightly-used Alantes and Precepts onto the market; a family-sized used unit should land comfortably inside the $100-150k band, often below it for the Alante.
 
@@ -123,7 +126,7 @@ Fleetwood's actual diesel pushers (Discovery, Discovery LXE, Frontier, Pace Arro
 
 **Reputation / known areas:** Solid, unremarkable mid-market — doesn't generate the complaint volume of Thor's own house brands nor the praise of Newmar/Tiffin; priced accordingly (often below Winnebago/Fleetwood). Worth a look opportunistically.
 
-**Belted seating:** The 500 lb Mirada drop-down is a *sleeping* rating. No published while-driving belt-anchor data found; verify per-VIN ([family doc](05-family-and-kids.html)).
+**Belted seating:** The 500 lb Mirada drop-down is a *sleeping* rating. No published while-driving belt-anchor data found; verify per-VIN ([family doc](../05-family-and-kids.html)).
 
 **Price, as of July 2026:** Typically below comparable Winnebago/Fleetwood; family-sized 2019-2023 Miradas generally sit in the lower half of the budget band.
 
@@ -133,7 +136,7 @@ Fleetwood's actual diesel pushers (Discovery, Discovery LXE, Frontier, Pace Arro
 
 **Reputation / known areas:** Mixed. Some owners report good craftsmanship and happy long-term ownership; others flag a **notably rough ride** (no airbags on the FR3, noisy on grades) and, on some units, **steering/handling issues that a dealer described as common to the FR3** ([iRV2, FR3 opinions](https://www.irv2.com/forums/f254/fr3-opinions-476244.html)). Community consensus: Georgetown edges the FR3 on build. A test drive on the highway — not just around the block — matters here more than most.
 
-**Belted seating:** The 350 lb FR3 overhead bunk is a sleeping rating. No published while-driving belt-anchor data found; verify per-VIN ([family doc](05-family-and-kids.html)).
+**Belted seating:** The 350 lb FR3 overhead bunk is a sleeping rating. No published while-driving belt-anchor data found; verify per-VIN ([family doc](../05-family-and-kids.html)).
 
 **Price, as of July 2026:** Generally value-priced; used FR3/Georgetown family units typically land in the lower-to-middle of the budget band.
 
@@ -143,7 +146,7 @@ Fleetwood's actual diesel pushers (Discovery, Discovery LXE, Frontier, Pace Arro
 
 **Reputation / known areas:** Effectively upmarket Jayco — shared chassis, slide mechanisms, and much interior build with the Jayco Precept/Alante line, with a higher finish level and price. Treat Vision/Emblem and Jayco Precept as close cross-shops; let floorplan and price decide, not badge mystique.
 
-**Belted seating:** No published belt-anchor data found; verify per-VIN ([family doc](05-family-and-kids.html)).
+**Belted seating:** No published belt-anchor data found; verify per-VIN ([family doc](../05-family-and-kids.html)).
 
 **Price, as of July 2026:** Priced above the equivalent Jayco for the finish step-up; family-sized used Visions generally fall inside the budget band.
 
@@ -159,7 +162,7 @@ Fleetwood's actual diesel pushers (Discovery, Discovery LXE, Frontier, Pace Arro
 
 **Reputation / known areas — read this one carefully:** Thor's own house brands carry the roughest aggregate owner sentiment of any group here — recurring reports of **delamination** (roof, slides, sidewalls), water leaks, electrical failures, and denied warranty claims show up across aggregator and forum sources. Forum sentiment is genuinely mixed — some long-term owners report solid mid-quality experiences — but the pattern is real enough that a used Thor purchase is the case where a **pre-purchase inspection with a moisture meter is not optional:** walk the roof edges, slide seals, and lower sidewalls with an inspector who will physically test for wet lamination, not just look for stains.
 
-**Belted seating:** No published while-driving belt-anchor data found; several plans have drop-down/overhead bunks (sleeping ratings). Verify per-VIN ([family doc](05-family-and-kids.html)).
+**Belted seating:** No published while-driving belt-anchor data found; several plans have drop-down/overhead bunks (sleeping ratings). Verify per-VIN ([family doc](../05-family-and-kids.html)).
 
 **Price, as of July 2026:** Cheapest for a given size, which is the whole value proposition — a family-sized used Windsport/Hurricane typically sits in the lower half of the budget band, sometimes well below it. The savings are real; so is the reason for the inspection.
 
@@ -169,7 +172,7 @@ Fleetwood's actual diesel pushers (Discovery, Discovery LXE, Frontier, Pace Arro
 
 A few cross-cutting things that apply no matter which badge you're standing in front of:
 
-- **The kids' seating is a model-selection filter, not an afterthought.** The Winnebago Adventurer's factory tether/LATCH callout is the one published, citable signal in the whole gas landscape — but it's a *starting point for verification*, not a finish line, and it doesn't make other brands unsafe or the Adventurer automatically safe. The real answer is always at the VIN: which way does the dinette face, is the belt a real 3-point, is it bolted to the frame or to plywood? The full framework — federal law vs. NJ law vs. expert guidance — is in the [family doc](05-family-and-kids.html). Do not let a "family floorplan" brochure photo substitute for that check.
+- **The kids' seating is a model-selection filter, not an afterthought.** The Winnebago Adventurer's factory tether/LATCH callout is the one published, citable signal in the whole gas landscape — but it's a *starting point for verification*, not a finish line, and it doesn't make other brands unsafe or the Adventurer automatically safe. The real answer is always at the VIN: which way does the dinette face, is the belt a real 3-point, is it bolted to the frame or to plywood? The full framework — federal law vs. NJ law vs. expert guidance — is in the [family doc](../05-family-and-kids.html). Do not let a "family floorplan" brochure photo substitute for that check.
 - **"Bunk" and "sleeps 8" are sleeping numbers, not driving numbers.** Every bunk/drop-down rating quoted above (250 lb Tiffin, 350 lb FR3, 500 lb Mirada) is a *sleeping* weight limit. None of them says anything about whether a child can be safely belted there while the coach is moving. Keep the two ideas separate.
 - **Model year > badge for the chassis.** A 2021+ 7.3L V8 coach (verified per-VIN) from a "value" brand may drive better and cost less to service than an older V10 coach from a "premium" one. Cross-shop across tiers, not just within them.
 - **Payload is the quiet constraint.** Six bikes, a hitch rack, two monitors, and a family's gear eat cargo capacity fast on a gas coach — get the actual weight/CCC sticker for any specific VIN before falling for it. The full treatment is in [chassis, weights & payload](03-chassis-weights-payload.html).
@@ -179,11 +182,11 @@ No winner, by design. The landscape is the point: know what you're looking at, v
 
 ## Where to go next in the docket
 
-- [RVing with the kids](05-family-and-kids.html) — the binding seating/car-seat constraint, in full (law vs. guidance).
+- [RVing with the kids](../05-family-and-kids.html) — the binding seating/car-seat constraint, in full (law vs. guidance).
 - [The diesel primer](17-diesel-primer.html) — diesel pushers (including the Forza), now on the table.
-- [The Class C landscape](18-class-c-landscape.html) — Class C 30 ft+ with a tow-car.
+- [The Class C landscape](../18-class-c-landscape.html) — Class C 30 ft+ with a tow-car.
 - [Chassis, weights & payload](03-chassis-weights-payload.html) — the cargo-capacity math behind the bikes and gear.
-- [Used buying & inspection](04-used-buying-inspection.html) — how to actually inspect a specific unit before you buy.
+- [Used buying & inspection](../04-used-buying-inspection.html) — how to actually inspect a specific unit before you buy.
 
 ## Sources
 

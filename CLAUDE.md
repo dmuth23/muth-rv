@@ -15,19 +15,30 @@ pushed, and rendering on the Pages site.
   publishing this research)
 - Pages site: https://dmuth23.github.io/muth-rv/ (served from `main` branch, `/docs`
   folder, Jekyll)
-- Purchase profile (Doug, updated 2026-07-12): USED, financing target **$100–150k**
-  (flexible down for a deal). Primary: gas Class A 30–35 ft (35 preferred). Also on
-  the table: **Class C** (30'+, with a toad) and **diesel** (not excluded anymore —
-  Doug wants informed-buyer coverage; a diesel would be shop-serviced, not DIY).
-  Window late 2026–2028. Kids born **March 2022** (turn 5 in Mar 2027, 6 in Mar 2028;
-  one bigger-, one smaller-than-average — affects car-seat/booster timing). Mostly
-  hookups + real boondocking ability, WFH with dual monitors (no employer location
-  rules), ~6 conventional bikes (**no e-bikes — ruled out**). Wife likely NOT
-  comfortable driving a Class A. Rent-before-buy is the agreed plan. Buyer in
-  **Brick, NJ**. Tow-car candidates: 2017 Toyota RAV4 Limited AWD, 2022 Hyundai Tucson.
+- Purchase profile (Doug, updated 2026-07-12 evening — **the Class C pivot**):
+  USED **gas Class C**, budget **$60–90k financed**. **Class A is ELIMINATED**
+  (national/state-park camping is the primary mission and park length limits
+  penalize big rigs; all Class-A-only docs live in `docs/archive/`). Size is THE
+  open question: 25' toured felt too small, but park limits favor shorter — the
+  parks-fit data (docs 25/26) drives the sweet spot. Mission includes cross-country
+  reach (Sequoia, Canyonlands). Window late 2026–2028. Kids born **March 2022**
+  (one bigger-, one smaller-than-average) and are **HOMESCHOOLED — no school
+  calendar tether** (school-year considerations archived). Abroad travel must
+  survive the purchase (Doug's work is HQ'd in Munich — family travel may fold
+  into business trips; never name the employer in public docs). Mostly hookups +
+  real boondocking, WFH with dual monitors, ~6 conventional bikes (no e-bikes).
+  Sara more likely comfortable driving a Class C. Rent-before-buy stands. Buyer in
+  **Brick, NJ**. Tow cars: 2017 RAV4 Limited AWD, 2022 Tucson (E-450 tow ratings
+  re-open the trailer question). Docket must include an honest anti-hype
+  cost-benefit ("how much must we use it to be worth it") and Sara's
+  trips-while-waiting concern; tone carries gratitude/perspective without
+  condescension.
 - Doc standards (Doug, 2026-07-12): every factual claim carries an inline source
   citation + per-doc Sources section; law vs. guidance must be clearly separated
   wherever rules are discussed. Applies to all future docs too.
+- Archive convention: superseded docs move to `docs/archive/` (rendered on the
+  site under an "Archive" section, clearly bannered, not maintained). Never
+  delete research; archive it.
 - Docs in `docs/` need Jekyll front matter (`---\ntitle: ...\n---`) to render styled.
 
 ## Guardrails
@@ -37,9 +48,9 @@ pushed, and rendering on the Pages site.
   (say "the kids" / "one child"). Never commit addresses, plates, VINs, prices Doug
   has been quoted privately, or family financial specifics beyond the stated
   $100–150k financing target (Doug approved publishing that band).
-- Model policy (Doug, 2026-07-12 — supersedes the earlier Sonnet-only rule):
-  research/writing agents run on **Opus**; adversarial verification and
-  orchestration run on **Fable**.
+- Model policy (Doug, 2026-07-12 evening — current): **Sonnet** research/writing
+  agents, **Opus** adversarial verification, **Fable** orchestration/advisor only.
+  Usage-conscious: don't kill the budget, but don't cut corners on accuracy.
 - Git identity + workflow policy are box-wide — see `~/projects/CLAUDE.md`
   (noreply commit identity; free-push vs ask-first classes). **This repo's class:
   free-push — personal research repo, Doug pre-approved public publishing.**

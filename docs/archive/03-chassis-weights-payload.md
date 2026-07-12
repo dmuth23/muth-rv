@@ -2,7 +2,10 @@
 layout: default
 title: "The Ford F-53 Chassis, and the Weight Math That Decides What You Can Actually Bring"
 nav_order: 4
+parent: Archive
 ---
+
+> **Archived (July 2026).** This doc belongs to the earlier Class A phase of the search — the Ford F-53 is a Class A chassis; the Class C equivalent (E-450 weight math) now lives in the Class C docs. It is kept intact for reference: facts were current when written but are no longer maintained. The live docket starts at [the home page](../index.html).
 
 # The Ford F-53 Chassis, and the Weight Math That Decides What You Can Actually Bring
 
@@ -76,11 +79,11 @@ Against a 1,400 lb OCCC floorplan, you are already at or past the ceiling before
 
 ## The hitch is a contested resource — plan for it now
 
-This is specific to your bike-hauling requirement and easy to miss until you're standing at the dealership: **the rear hitch receiver on an F-53 coach is one physical spot**, and it wants to do double duty as both a bike rack mount and a dinghy-tow (flat-tow a car) connection. If you ever want to flat-tow a second vehicle behind the motorhome — common for boondocking families who don't want to break camp just to get groceries — that tow vehicle and six bikes cannot both live on the same rear hitch at the same time. (The whole toad question — whether to tow a car, and whether your 2017 RAV4 or 2022 Tucson can even be flat-towed — is worked through in [towing a car behind the motorhome](19-towing-a-car.html).)
+This is specific to your bike-hauling requirement and easy to miss until you're standing at the dealership: **the rear hitch receiver on an F-53 coach is one physical spot**, and it wants to do double duty as both a bike rack mount and a dinghy-tow (flat-tow a car) connection. If you ever want to flat-tow a second vehicle behind the motorhome — common for boondocking families who don't want to break camp just to get groceries — that tow vehicle and six bikes cannot both live on the same rear hitch at the same time. (The whole toad question — whether to tow a car, and whether your 2017 RAV4 or 2022 Tucson can even be flat-towed — is worked through in [towing a car behind the motorhome](../19-towing-a-car.html).)
 
 Realistic options: (1) skip dinghy towing and just drive the coach everywhere (workable if you're mostly campground-based, less workable for boondocking side trips); (2) mount bikes on a **front-mounted receiver hitch** and keep the rear hitch free for a dinghy — but note there is **no custom-fit, bolt-on front hitch made specifically for the F-53**; per [etrailer's F-53 front-hitch Q&A](https://www.etrailer.com/question-511455.html), the practical route is a universal frame-mount receiver fitted by a fabrication shop, since the RV builder can modify the front frame differently on every coach; or (3) go interior/basement storage for at least some bikes (kids' bikes are small enough to live in a basement bay with front wheels off) and use the rear hitch for whichever of dinghy-or-bikes matters more on a given trip. Whatever you choose, verify the hitch's rated tongue weight against actual loaded bike weight plus rack — a loaded 4-6 bike hitch rack can hit 150-250 lb of tongue weight, and [not every hitch rack is actually built/rated for RV frame flex](https://outrig.com/the-ultimate-guide-to-rv-bike-racks-for-families/), so look specifically for RV-rated hardware, not a car-rated rack pressed into service.
 
-On dinghy towing capacity itself: F-53 coaches are typically delivered from the coachbuilder with **4,000-6,000 lb of usable towing capacity**, per [etrailer's F-53 towing guidance](https://www.etrailer.com/question-683869.html) — but the *installed hitch* on a given coach may be rated lower, and that's the number that governs. As a concrete example, [Winnebago's Adventurer 35F](https://www.winnebago.com/models/product/specifications/motorhomes/class-a/adventurer-35f) ships with a hitch rated for a **5,000 lb drawbar and 500 lb maximum vertical tongue weight** on a 22,000 lb-GVWR chassis. Either way, always confirm against the specific coach's GCWR and its hitch label, not a generic chassis number, since GCWR is a function of the specific GVWR/engine combo you end up with. (Whether your family cars fall inside that limit — and whether they can be flat-towed at all — is the subject of [towing a car](19-towing-a-car.html).)
+On dinghy towing capacity itself: F-53 coaches are typically delivered from the coachbuilder with **4,000-6,000 lb of usable towing capacity**, per [etrailer's F-53 towing guidance](https://www.etrailer.com/question-683869.html) — but the *installed hitch* on a given coach may be rated lower, and that's the number that governs. As a concrete example, [Winnebago's Adventurer 35F](https://www.winnebago.com/models/product/specifications/motorhomes/class-a/adventurer-35f) ships with a hitch rated for a **5,000 lb drawbar and 500 lb maximum vertical tongue weight** on a 22,000 lb-GVWR chassis. Either way, always confirm against the specific coach's GCWR and its hitch label, not a generic chassis number, since GCWR is a function of the specific GVWR/engine combo you end up with. (Whether your family cars fall inside that limit — and whether they can be flat-towed at all — is the subject of [towing a car](../19-towing-a-car.html).)
 
 ## Tire load range and the 7-year rule — a used-buyer's top safety check
 
@@ -150,5 +153,5 @@ Every source cited inline above, with a one-line note on what it supports. Prima
 
 **Related docket docs**
 - [Diesel primer](17-diesel-primer.html) — the other chassis family, now that diesel is on the table.
-- [Class C landscape](18-class-c-landscape.html) — 30 ft+ Class C alternatives under consideration.
-- [Towing a car](19-towing-a-car.html) — whether the family's RAV4 or Tucson can be towed, and the full flat-tow/dolly/trailer options.
+- [Class C landscape](../18-class-c-landscape.html) — 30 ft+ Class C alternatives under consideration.
+- [Towing a car](../19-towing-a-car.html) — whether the family's RAV4 or Tucson can be towed, and the full flat-tow/dolly/trailer options.
