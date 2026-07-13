@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "Where the Rig Lives at Home: Brick Township, NJ"
-nav_order: 20
+nav_order: 6
+parent: "Living With It"
 ---
 
 # Where the Rig Lives at Home: Brick Township, NJ

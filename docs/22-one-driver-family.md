@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "Driving the Class C: Does It Change Sara's Hesitation?"
-nav_order: 12
+nav_order: 3
+parent: "The Rig"
 ---
 
 # Driving the Class C: Does It Change Sara's Hesitation?

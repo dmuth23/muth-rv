@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "Gear and Mods: What to Buy on Day One, Month One, and Never"
-nav_order: 15
+nav_order: 3
+parent: "Living With It"
 ---
 
 # Gear and Mods: What to Buy on Day One, Month One, and Never

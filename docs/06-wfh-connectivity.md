@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "Working Remotely From the Rig: Internet, Power, and a Desk That Survives the Highway"
-nav_order: 13
+nav_order: 1
+parent: "Living With It"
 ---
 
 # Working Remotely From the Rig: Internet, Power, and a Desk That Survives the Highway

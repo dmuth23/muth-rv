@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "The Class C Landscape: Matching Coach to Campground"
-nav_order: 5
+nav_order: 1
+parent: "The Rig"
 ---
 
 # The Class C Landscape: Matching Coach to Campground

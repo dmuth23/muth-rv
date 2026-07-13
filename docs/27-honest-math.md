@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "The Honest Math"
-nav_order: 7
+nav_order: 1
+parent: "The Decision"
 ---
 
 # The Honest Math

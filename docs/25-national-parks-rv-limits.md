@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "Where It Can Actually Go: National Park RV Length Limits"
-nav_order: 3
+nav_order: 2
+parent: "The Parks Mission"
 ---
 
 # Where It Can Actually Go: National Park RV Length Limits

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "The Master Reading List"
-nav_order: 25
+nav_order: 8
 ---
 
 # The Master Reading List

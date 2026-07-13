@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "Fire, CO, and Propane Safety — and the Roadside Assistance Gap"
-nav_order: 24
+nav_order: 6
+parent: "The Process"
 ---
 
 # Fire, CO, and Propane Safety — and the Roadside Assistance Gap

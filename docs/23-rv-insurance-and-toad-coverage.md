@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "RV Insurance and Toad Coverage: Policy Structure, Not Just Price"
-nav_order: 17
+nav_order: 5
+parent: "Living With It"
 ---
 
 # RV Insurance and Toad Coverage: Policy Structure, Not Just Price

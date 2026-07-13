@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "Trip Planning and Driving: Apps, Northeast Landmines, Reservations, and Learning to Drive a 28-31' Class C"
-nav_order: 21
+nav_order: 4
+parent: "The Process"
 ---
 
 # Trip Planning and Driving: Apps, Northeast Landmines, Reservations, and Learning to Drive a 28-31' Class C

@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "State Parks and the Road West: RV Limits Near Home and En Route"
-nav_order: 4
+nav_order: 3
+parent: "The Parks Mission"
 ---
 
 # State Parks and the Road West: RV Limits Near Home and En Route

@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "Homeschooling as a Travel Superpower — and Its Honest Limits"
-nav_order: 9
+nav_order: 3
+parent: "The Decision"
 ---
 
 # Homeschooling as a Travel Superpower — and Its Honest Limits

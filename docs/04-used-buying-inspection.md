@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "How to Actually Buy a Used Class C: Channels, Inspection, and Negotiation"
-nav_order: 18
+nav_order: 2
+parent: "The Process"
 ---
 
 # How to Actually Buy a Used Class C: Channels, Inspection, and Negotiation

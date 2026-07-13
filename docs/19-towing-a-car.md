@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "Towing a Car Behind the Motorhome (the \"Toad\")"
-nav_order: 10
+nav_order: 4
+parent: "The Rig"
 ---
 
 # Towing a Car Behind the Motorhome (the "Toad")

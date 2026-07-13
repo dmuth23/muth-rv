@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "The Full Class C Cost of Ownership: What $60-90k Financed Really Costs, Every Year"
-nav_order: 16
+nav_order: 4
+parent: "Living With It"
 ---
 
 # The Full Class C Cost of Ownership: What $60-90k Financed Really Costs, Every Year

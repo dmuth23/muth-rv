@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "The Bigger Picture: Why We're Doing This, and What It Isn't"
-nav_order: 8
+nav_order: 2
+parent: "The Decision"
 ---
 
 # The Bigger Picture: Why We're Doing This, and What It Isn't

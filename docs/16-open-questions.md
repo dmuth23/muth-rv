@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "Decisions & Open Questions"
-nav_order: 26
+nav_order: 4
+parent: "The Decision"
 ---
 
 # Decisions & Open Questions

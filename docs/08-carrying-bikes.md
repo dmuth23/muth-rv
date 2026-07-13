@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "Carrying 6 Bikes: Racks, the Toad, and the Trailer Alternative"
-nav_order: 11
+nav_order: 5
+parent: "The Rig"
 ---
 
 # Carrying 6 Bikes: Racks, the Toad, and the Trailer Alternative

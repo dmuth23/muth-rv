@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "Buying Out-of-State: Temp Tags, Insurance-in-Transit, and Getting It Home to NJ"
-nav_order: 19
+nav_order: 3
+parent: "The Process"
 ---
 
 # Buying Out-of-State: Temp Tags, Insurance-in-Transit, and Getting It Home to NJ

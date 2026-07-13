@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "The Classic Mistakes Catalog and the Checklist Pack"
-nav_order: 22
+nav_order: 5
+parent: "The Process"
 ---
 
 # The Classic Mistakes Catalog and the Checklist Pack

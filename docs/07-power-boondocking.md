@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "Power & Boondocking: Making a Used Class C Genuinely Park-Ready"
-nav_order: 14
+nav_order: 2
+parent: "Living With It"
 ---
 
 # Power & Boondocking: Making a Used Class C Genuinely Park-Ready

@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "Rent Before You Buy: The Trial-Run Plan We've Agreed On"
-nav_order: 23
+nav_order: 1
+parent: "The Process"
 ---
 
 # Rent Before You Buy: The Trial-Run Plan We've Agreed On

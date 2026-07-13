@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "RVing With Kids (Ages 4–6): Car Seats, the Law, and Sanity on the Road"
-nav_order: 6
+nav_order: 2
+parent: "The Rig"
 ---
 
 # RVing With Kids (Ages 4–6): Car Seats, the Law, and Sanity on the Road
