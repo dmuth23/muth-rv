@@ -24,7 +24,11 @@ https://dmuth23.github.io/muth-rv/ for Doug + Sara.
   verify, Fable orchestration only. Usage-conscious, no accuracy corners.
 
 ## State at session end (all pushed, Pages verified live)
-- HEAD `0021808` on main. 26 live docs + 4-doc Archive. Key structure:
+- Site restructured (Doug, same evening): sidebar = Home, **00-key-findings.md**
+  (the headline numbers in one page), 5 collapsible sections via parent/child
+  front matter (section-parks/decision/rig/living/process.md), Reading List,
+  Archive. All verified rendering live.
+- 26 live docs + 4-doc Archive. Key structure:
   25/26 = parks length-limit charts (137 rows, official sources; fit analysis),
   27 = Honest Math (~44 nights/yr own-vs-rent break-even; walk-away triggers),
   28 = Bigger Picture (trips-while-waiting, abroad guardrails, gratitude tone),
